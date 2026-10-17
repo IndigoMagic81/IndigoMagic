@@ -1,6 +1,6 @@
 # Indigo Magic
 
-<img width="1108" height="808" alt="panel" src="https://github.com/user-attachments/assets/c3b539a5-e84a-422d-b7e0-5974521fc31d" />
+https://github.com/IndigoMagic81/IndigoMagic/blob/main/screenshots/panel.png
 
 **Indigo Magic** is a procedural desktop background generator inspired by the legendary SGI Indigo Magic desktop environment and the visual aesthetics of Silicon Graphics workstations from the early 1990s through the IRIX 6.x era.
 
