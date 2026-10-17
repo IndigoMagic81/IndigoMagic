@@ -1,0 +1,27 @@
+#include <windows.h>
+1 ICON "app.ico"
+1 RT_MANIFEST "app.manifest"
+VS_VERSION_INFO VERSIONINFO
+FILEVERSION 2,4,0,0
+PRODUCTVERSION 2,4,0,0
+FILEOS VOS_NT_WINDOWS32
+FILETYPE VFT_APP
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "040904B0"
+    BEGIN
+      VALUE "FileDescription", "Indigo Magic"
+      VALUE "ProductName", "Indigo Magic"
+      VALUE "FileVersion", "2.4.0"
+      VALUE "ProductVersion", "2.4.0"
+      VALUE "OriginalFilename", "IndigoMagic.exe"
+      VALUE "InternalName", "IndigoMagic"
+      VALUE "Comments", "Unofficial fan recreation of the IRIX 6.5 Background Setting panel"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x409, 1200
+  END
+END
